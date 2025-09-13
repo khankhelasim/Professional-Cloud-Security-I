@@ -12,5 +12,4 @@ This lab demonstrates two key Linux security practices:
 ## Files
 - `steps.md` → Full step-by-step instructions.
 - `commands.sh` → All commands used in the lab.
-- `outputs.txt` → Expected outputs of commands.
 - `notes.md` → Key takeaways and troubleshooting notes.
